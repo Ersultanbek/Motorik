@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Motorik</string>
+    <string name="Master">Я Мастер</string>
+    <string name="WhoAreYou">Кто вы</string>
+    <string name="Client">Я Клиент</string>
+    <string name="Email">Email</string>
+    <string name="Пароль" translatable="false">Password</string>
+    <string name="Password">Пароль</string>
+    <string name="SignIn">Войти</string>
+    <string name="Register">Регистрация</string>
+</resources>
